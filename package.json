@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-simple-storage",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.2",
+    "hardhat": "^2.19.5",
+    "hardhat-gas-reporter": "^1.0.10"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.4",
+    "solidity-coverage": "^0.8.7"
+  }
+}
